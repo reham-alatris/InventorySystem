@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="empty_view">No Cupcakes found</string>
+</resources>
